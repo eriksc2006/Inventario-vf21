@@ -1,10 +1,10 @@
-# 📦 Inventario VF21
+#  Inventario VF21
 
 Sistema de inventario en Excel con macros VBA para gestión de consumibles, herramientas eléctricas y compradores desde múltiples sedes.
 
 ---
 
-## 🗂️ Estructura del archivo
+##  Estructura del archivo
 
 El archivo `Inventario-VF21.xltm` contiene las siguientes hojas:
 
@@ -17,7 +17,7 @@ El archivo `Inventario-VF21.xltm` contiene las siguientes hojas:
 
 ---
 
-## 🔘 Botones disponibles
+##  Botones disponibles
 
 ### Consumibles
 - **Realizar un movimiento de los consumibles** → `Functions.openSystem`
@@ -36,14 +36,14 @@ El archivo `Inventario-VF21.xltm` contiene las siguientes hojas:
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - Microsoft Excel con soporte para macros (`.xltm` / `.xlsm`)
 - Habilitar macros al abrir el archivo
 
 ---
 
-## 🚀 Cómo usar
+##  Cómo usar
 
 1. Descarga el archivo `Inventario-VF21.xltm`
 2. Ábrelo en Excel y **habilita las macros** cuando se solicite
@@ -51,13 +51,7 @@ El archivo `Inventario-VF21.xltm` contiene las siguientes hojas:
 
 ---
 
-## ⚠️ Pendiente
-
-- Crear la macro `openinserCom` y el UserForm correspondiente para insertar nuevos compradores (tabla en columna `S` de `Sede_principal`)
-
----
-
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 inventario-vf21/
